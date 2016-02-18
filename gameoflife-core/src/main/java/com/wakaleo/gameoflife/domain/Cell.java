@@ -9,8 +9,6 @@ public enum Cell {
         this.symbol = initialSymbol;
     }
  
-    // Comment
-
     @Override
     public String toString() {
         return symbol;
